@@ -89,6 +89,7 @@
 - align-items: center;`To align items along the cross axis`
 - flex-wrap: wrap;`To enable wrapping`
 - align-content: center;`To align flex lines along the cross axis`
+- gap: 10px 20px; `Shorthand (row column)`
 
 ##### Item properties
 
